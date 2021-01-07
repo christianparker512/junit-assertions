@@ -79,7 +79,7 @@ public class MyFirstTest{
             language.contains("J");
 //
             assertTrue(language.contains("H"));
-            assertFalse(language.contains("J"));
+//            assertFalse(language.contains("J"));
         }
 
     }
